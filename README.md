@@ -49,7 +49,7 @@ It takes to solve 'em
 Yeah, I got issues
 And one of them is how bad I need you
 
-And one of them is how bad I need you
+And one of them is how bad I need you,,,,
 (I got issues, you got 'em too)
 
 'Cause I got issues
