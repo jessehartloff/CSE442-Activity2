@@ -73,3 +73,8 @@ Yeah, I got issues (I got)
 And one of them is how bad I need you
 
 Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Erik Hermansen • Copyright © Warner/Chappell Music, Inc, Universal Music Publishing Group, Sony/ATV Music Publishing LLC
+
+
+
+
+THIS SONG IS CRAP
