@@ -1,4 +1,9 @@
 # CSE442-Activity2
+A
+B
+C
+D
+E
 
 I'm jealous, I'm overzealous
 When I'm down, I get real down
