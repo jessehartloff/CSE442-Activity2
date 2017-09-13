@@ -1,3 +1,7 @@
+
+CSE442-Activity2
+hi my name is aman
+YOLO!
 # CSE442-Activity2
 I'm jealous, I'm overzealous
 When I'm down, I get real down
@@ -77,4 +81,5 @@ Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Eri
 
 
 THIS SONG IS CRAP
+
 
