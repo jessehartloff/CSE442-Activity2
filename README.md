@@ -1,5 +1,8 @@
-# CSE442-Activity2
 
+CSE442-Activity2
+hi my name is aman
+YOLO!
+# CSE442-Activity2
 I'm jealous, I'm overzealous
 When I'm down, I get real down
 When I'm high, I don't come down
@@ -73,3 +76,10 @@ Yeah, I got issues (I got)
 And one of them is how bad I need you
 
 Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Erik Hermansen • Copyright © Warner/Chappell Music, Inc, Universal Music Publishing Group, Sony/ATV Music Publishing LLC
+
+
+
+
+THIS SONG IS CRAP
+
+
