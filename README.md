@@ -72,4 +72,7 @@ And one of them is how bad I need you (You got 'em too)
 Yeah, I got issues (I got)
 And one of them is how bad I need you
 
+I finally managed to edit this file without any issues
+Maybe I won't face anymore issues  
+usr/bin/bash: wq: command not found
 Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Erik Hermansen • Copyright © Warner/Chappell Music, Inc, Universal Music Publishing Group, Sony/ATV Music Publishing LLC
