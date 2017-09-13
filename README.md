@@ -1,3 +1,4 @@
+i hate the terminal`
 # CSE442-Activity2
 I'm jealous, I'm overzealous
 When I'm down, I get real down
