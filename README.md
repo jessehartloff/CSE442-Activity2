@@ -1,7 +1,4 @@
 
-all the bugs are gone
-
-
 I'm jealous, I'm overzealous
 When I'm down, I get real down
 When I'm high, I don't come down
@@ -80,5 +77,6 @@ Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Eri
 
 
 THIS SONG IS CRAP
+
 
 
