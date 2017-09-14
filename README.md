@@ -1,5 +1,17 @@
 
+
+CSE442-Activity2
+hi my name is aman
+YOLO!
+# CSE442-Activity2
+
+
+Activity 2 Complete!
+Daniel Puleio
+
+
 all the bugs are gone
+
 
 
 I'm jealous, I'm overzealous
@@ -80,5 +92,6 @@ Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Eri
 
 
 THIS SONG IS CRAP
+
 
 
