@@ -1,1 +1,2 @@
-math is the best thing ever!!
+x + 1 =  y;
+x = 5;
