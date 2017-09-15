@@ -1,4 +1,10 @@
 
+# CSE442-Activity2
+
+Adding ot the README
+
+ganna cause a conflict
+
 all the bugs are gone
 
 
@@ -80,5 +86,4 @@ Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Eri
 
 
 THIS SONG IS CRAP
-
 
