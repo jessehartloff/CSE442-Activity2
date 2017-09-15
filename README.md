@@ -1,5 +1,10 @@
 
 # CSE442-Activity2
+A
+B
+C
+D
+E
 
 Edit to README
 This is great
