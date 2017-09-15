@@ -1,7 +1,8 @@
 
 # CSE442-Activity2
 
-Adding ot the README
+Edit to README
+This is great
 
 ganna cause a conflict
 
@@ -86,4 +87,5 @@ Written by Julia Michaels, Justin Tranter, Benny Blanco, Mikkel Eriksen, Tor Eri
 
 
 THIS SONG IS CRAP
+
 
