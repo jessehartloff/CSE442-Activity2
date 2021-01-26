@@ -1,0 +1,6 @@
+print("i am1")
+print("i am1")
+print("i am1")
+print("i am1")
+print("i am1")
+print("i am the best")
